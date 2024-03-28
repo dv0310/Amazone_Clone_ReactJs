@@ -1,7 +1,6 @@
 
 # Amazon - Clone using ReactJs
 
-**Project Link** - ***[https://alanbinu-ecommerce.web.app/](https://6604d0628716cc1c526478b1--cerulean-klepon-276c2d.netlify.app/)***
 
 ## Tech We Used
 
